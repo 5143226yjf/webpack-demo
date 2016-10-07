@@ -1,0 +1,32 @@
+.search{
+  width:640px;
+  height:250px;
+  margin:0 auto;
+}
+.search-t{
+  margin:0 auto;
+  width:270px;
+  height:129px;
+}
+.search-b{
+  width:640px;
+  height:40px;
+  clear:both;
+  margin-top:10px;
+}
+.sr{
+  width:532px;
+  height:36px;
+  float:left;
+  background:url(../../images/phone.png) no-repeat 500px 10px;
+
+
+}
+.tj{
+  width:104px;
+  height:40px;
+  float:left;
+  background: #2e7ae5;
+  color:#fff;
+  border: #2e7ae5;
+}

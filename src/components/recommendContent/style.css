@@ -1,0 +1,80 @@
+.recommendContent{
+  float:left;
+  margin-left:10px;
+  width:538px;
+  clear:both;
+}
+.news-flash-tips{
+  width:843px;
+  height:38px;
+  margin-left:10px;
+}
+.left-line , .right-line{
+  width:172px;
+  height:30px;
+  border-bottom:1px solid #e2e2e2;
+  float:left;
+}
+.tips-content span{
+  display: inline-block;
+  float:left;
+  margin-top:20px;
+  color:rgba(0, 0, 0, .4);
+}
+.tips-icon{
+  background:url(../../images/BAIDU.png)no-repeat;
+  width:16px;
+  height:14px;
+  float:left;
+  margin-top:22px;
+}
+.s-news-special{
+  width:538px;
+  height:200px;
+  float:left;
+  margin:10px;
+  clear:both;
+  border-bottom:1px solid #e2e2e2;
+
+}
+.s-news-special h2 a{
+  font-size: 18px;
+  font-family: "微软雅黑";
+  text-decoration: none;
+  color:#000;
+}
+.s-pic-content{
+  width:538px;
+  height:119px;
+  margin:10px 0;
+}
+.s-news-content-img{
+  width:538px;
+  height:119px;
+}
+.item-img-wrap{
+  width:179px;
+  height:119px;
+  float: left;
+  list-style-type: none;
+}
+.form{
+  width:538px;
+  height:15px;
+
+}
+.src-net a,.src-time{
+  text-decoration: none;
+  color:rgba(0, 0, 0, .4);
+  font-size: 13px;
+}
+.hot-point{
+  color: #f13f40;
+  border:1px solid #efb9b9;
+  margin:0 10px;
+  padding:0 2px;
+  border-radius: 3px;
+  line-height: 12px;
+  font-size:12px;
+}
+

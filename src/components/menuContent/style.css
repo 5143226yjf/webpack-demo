@@ -1,0 +1,9 @@
+.menuContent{
+  width:895px;
+  min-height:1000px;
+  margin:0 auto;
+  border:1px solid #ebebeb;
+  border-top: hidden;
+  clear:both;
+  position:relative;
+}

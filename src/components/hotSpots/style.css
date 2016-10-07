@@ -1,0 +1,50 @@
+.hotSpots{
+  width:300px;
+  height:302px;
+  margin-top:20px;
+  float:right;
+  text-align: left;
+
+}
+.h-top{
+  font-size:14px;
+  width:270px;
+  height:30px;
+
+}
+.h-top-hots{
+  font-weight: bold;
+  float:left;
+}
+.hot-refresh-icon{
+  margin:3px 0 2px 150px;
+  width:20px;
+  height:16px;
+  line-height: 16px;
+  float:left;
+  display: inline-block;
+  background:url(../../images/shuaxin.png)no-repeat center;
+}
+.hot-refresh-text{
+  font-size:13px;
+}
+.s-news-rank-content li{
+  list-style-type: none;
+  text-align: left;
+  display: inline-block;
+  width:135px;
+  height:35px;
+}
+.title-content{
+  text-decoration: none;
+  color:#333;
+  font-size:14px;
+}
+.title-content:hover{
+  text-decoration: underline;
+  color: #0079f4;
+}
+.news-meta-item{
+  margin-right:15px;
+}
+

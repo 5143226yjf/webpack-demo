@@ -1,0 +1,94 @@
+.nav{
+  height:35px;
+  width:100%;
+  border-bottom: 1px solid #ebebeb;
+  clear:both;
+}
+.nav-left{
+  float:left;
+  width:320px;
+  height:35px;
+
+}
+.s-weather-wrapper{
+  width:170px;
+  height:35px;
+  float:left;
+
+  line-height:35px;
+}
+.s-weather-wrapper a {
+  text-decoration: none;
+  height:20px;
+}
+.s-weather-wrapper span{
+  display: inline-block;
+  float:left;
+
+}
+.s-weather-wrapper em{
+  font-size:14px;
+  font-style: normal;
+  margin-left:10px;
+}
+.show-city-name,.show-icon-temp,.show-pollution-num{
+  color:#555;
+}
+.show-pollution-name{
+  color:#38f;
+}
+.show-vertical{
+  color:#555;
+  margin-left:10px;
+}
+
+.nav-left-r{
+  float:left;
+  width:150px;
+}
+.nav-left-r li{
+  height:35px;
+  text-align: center;
+  font-size:10px;
+  color:#555;
+  width:30px;
+  float:left;
+  margin-left:15px;
+  list-style-type: none;
+  text-decoration: underline;
+  line-height: 35px;
+}
+.clearfix::after{
+  content: "";
+  height: 0;
+  display: block;
+  clear: both;
+  visibility: hidden;
+}
+.clearfix{
+  margin-bottom:5px;
+  float:right;
+  height:35px;
+  width:570px;
+  text-align: center;
+
+}
+.clearfix li{
+  width:50px;
+  height:35px;
+  line-height: 35px;
+  float:left;
+  margin-left:10px;
+  list-style-type: none;
+  font-family: "微软雅黑";
+  text-decoration:underline
+}
+.clearfix .more{
+  line-height: 35px;
+  width:80px;
+  height:35px;
+  text-align: center;
+  background:#2e7ae5;
+  color:#fff;
+  text-decoration: none;
+}
